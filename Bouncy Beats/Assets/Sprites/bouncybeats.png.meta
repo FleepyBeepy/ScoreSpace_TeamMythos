@@ -1,0 +1,601 @@
+fileFormatVersion: 2
+guid: 2ad92f073eca1514f9d140a4f06bc535
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bouncybeats_0
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 9760
+        width: 2626
+        height: 658
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ecf0af11dccd241b69586689581ad8
+      internalID: 208003094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bouncybeats_1
+      rect:
+        serializedVersion: 2
+        x: 4758
+        y: 9768
+        width: 2619
+        height: 766
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cdb9324dc7460043bddcbfa47944f2c
+      internalID: -189847461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bouncybeats_2
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 9711
+        width: 2449
+        height: 849
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbf02953d62691459b3a5c8ccaa9d6d
+      internalID: -1399431140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bouncybeats_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 8392
+        width: 2287
+        height: 760
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45a50a4a162b834682e50c7e1fbe418
+      internalID: -1294278155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bouncybeats_4
+      rect:
+        serializedVersion: 2
+        x: 2437
+        y: 8372
+        width: 2288
+        height: 1312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c120174bc410e4c46a4706770ce76e80
+      internalID: 80828558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bouncybeats_5
+      rect:
+        serializedVersion: 2
+        x: 6830
+        y: 8220
+        width: 443
+        height: 1016
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6ba61878d2dfb46a738914ca12db94
+      internalID: -1334481159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bouncybeats_6
+      rect:
+        serializedVersion: 2
+        x: 8274
+        y: 8418
+        width: 130
+        height: 308
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d87c24d24525634d916047e407ee2e3
+      internalID: -1055605425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bouncybeats_7
+      rect:
+        serializedVersion: 2
+        x: 9337
+        y: 8210
+        width: 448
+        height: 1021
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84f64f6ac8c24249a8b2be83cad5684
+      internalID: 665680590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bouncybeats_8
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 6876
+        width: 2292
+        height: 760
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0a112405cd5c2408a43350dd222808
+      internalID: -420632588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bouncybeats_9
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 6860
+        width: 2291
+        height: 1308
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019c92526cfd9ba4b9f91b257713d987
+      internalID: 594408502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bouncybeats_10
+      rect:
+        serializedVersion: 2
+        x: 6570
+        y: 6980
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9324c9f9efa4dd4480efcc15bb48bcb
+      internalID: 1797710279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bouncybeats_11
+      rect:
+        serializedVersion: 2
+        x: 6575
+        y: 6188
+        width: 3518
+        height: 1975
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4de78884c9f62419b75f47b8079159
+      internalID: 2082835631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bouncybeats_12
+      rect:
+        serializedVersion: 2
+        x: 6565
+        y: 6939
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1482bb28a4b5984c9ad142e54e6aa98
+      internalID: 1579500039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bouncybeats_13
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 5485
+        width: 2288
+        height: 755
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb28981bdcb814e4d9d4befb7f4b98b5
+      internalID: -963305155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bouncybeats_14
+      rect:
+        serializedVersion: 2
+        x: 2395
+        y: 5464
+        width: 2288
+        height: 1312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e489d25c39b16f64a82581c54940acb9
+      internalID: 2038104891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bouncybeats_15
+      rect:
+        serializedVersion: 2
+        x: 6273
+        y: 2629
+        width: 3772
+        height: 3450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5689c95483d74c45acc33f9acc5a87c
+      internalID: 1886444985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bouncybeats_16
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 618
+        width: 3132
+        height: 4622
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1537.8418, y: -2238.537}
+        - {x: -1515.0388, y: -2311}
+        - {x: -1551.4431, y: 2311}
+        - {x: 1114.0632, y: 2311}
+        - {x: 1106.3833, y: 1900.4746}
+        - {x: 1083.0852, y: 229.4729}
+        - {x: 1566, y: 209.74341}
+        - {x: 1566, y: -1333.9788}
+        - {x: 1556.2881, y: -2238.537}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa94fe1d132a2b44a666ad9eeb0fb0a
+      internalID: -203682126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bouncybeats_17
+      rect:
+        serializedVersion: 2
+        x: 2906
+        y: 4094
+        width: 3292
+        height: 1356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130a851d06488fc45b190e34ed72c0d5
+      internalID: 1309094018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bouncybeats_23
+      rect:
+        serializedVersion: 2
+        x: 6257
+        y: 4750
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ed9e2838af99947bdf855334d1d29d
+      internalID: -1551622341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bouncybeats_25
+      rect:
+        serializedVersion: 2
+        x: 10036
+        y: 4569
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258071a0951889c449ce5edc9fc91bd2
+      internalID: 2140559006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bouncybeats_27
+      rect:
+        serializedVersion: 2
+        x: 10046
+        y: 4458
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f4757ab7fd0114e88f1117d5970392
+      internalID: 1012351662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9b2831db5857d7b4f8f95b2ebc8c1355
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      bouncybeats_23: -1551622341
+      bouncybeats_24: 1131110204
+      bouncybeats_25: 2140559006
+      bouncybeats_5: -1334481159
+      bouncybeats_13: -963305155
+      bouncybeats_0: 208003094
+      bouncybeats_15: 1886444985
+      bouncybeats_18: -613526040
+      bouncybeats_21: -1180138783
+      bouncybeats_2: -1399431140
+      bouncybeats_17: 1309094018
+      bouncybeats_3: -1294278155
+      bouncybeats_22: -1104583148
+      bouncybeats_14: 2038104891
+      bouncybeats_20: -569295988
+      bouncybeats_6: -1055605425
+      bouncybeats_9: 594408502
+      bouncybeats_16: -203682126
+      bouncybeats_4: 80828558
+      bouncybeats_1: -189847461
+      bouncybeats_11: 2082835631
+      bouncybeats_12: 1579500039
+      bouncybeats_27: 1012351662
+      bouncybeats_19: -301483513
+      bouncybeats_8: -420632588
+      bouncybeats_26: 2083220504
+      bouncybeats_7: 665680590
+      bouncybeats_10: 1797710279
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
