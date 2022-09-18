@@ -12,7 +12,14 @@ public class MainMenu : MonoBehaviour
       
         SceneManager.LoadScene("Level 1");
     }
-
+    public void LoadOptions() 
+    {
+        SceneManager.LoadScene("Credits");
+    }
+    public void LoadMainMenu() 
+    {
+        SceneManager.LoadScene("Main Menu");
+    }
     public void QuitGame()
     {
 

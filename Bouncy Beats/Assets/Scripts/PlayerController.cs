@@ -8,6 +8,7 @@ public class PlayerController : MonoBehaviour
    // public PlayerController Instance = this;
     
     public bool isFastFalling = false;
+    public bool collided = false;
     public float fastFallSpeed;
     Transform currentNote;
     void Start()
@@ -114,6 +115,14 @@ public class PlayerController : MonoBehaviour
             transform.GetComponent<SphereCollider>().material.bounciness = .965f;
         }
         
+        collided = true;
+        Debug.Log(collided);
+    }
+
+    private void OnCollisionExit(Collision collision)
+    {
+        collided = false;
+        Debug.Log(collided);
 
     }
 
