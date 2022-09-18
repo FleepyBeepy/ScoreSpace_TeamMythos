@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class MoveTexture : MonoBehaviour
@@ -16,6 +17,6 @@ public class MoveTexture : MonoBehaviour
     void Update()
     {
         float moveThis = Time.time * scrollSpeed;
-        rend.material.SetTextureOffset("_MainTex", new Vector2(0, moveThis));
+        rend.material.mainTextureOffset = new Vector2(0, moveThis);
     }
 }
