@@ -14,6 +14,8 @@ public class Score : MonoBehaviour
     private TextMeshProUGUI ScoreText;
     [SerializeField]
     private TextMeshProUGUI MultiText;
+    [SerializeField]
+    private TextMeshProUGUI ConsectuiveNotes;
     public int Round = 0;
     void Start()
     {
@@ -33,7 +35,8 @@ public class Score : MonoBehaviour
     {
         ScoreText.text = score.ToString();
         MultiText.text = Multiplier.ToString();
-       
+        ConsectuiveNotes.text = MultiChoice.ToString();
+
         if (Input.GetKeyDown(KeyCode.M))
         {
             ProcessHit(NoteHit.Miss);
